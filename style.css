@@ -1,8 +1,71 @@
-h1 {color: white;
-
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Bebas Neue";
+    background: rgb(158,42,217);
+    background: linear-gradient(90deg, rgba(158,42,217,1) 0%, rgba(238,255,0,1) 100%);
+    margin-bottom: 50px;
 }
 
-body{
-    background: rgb(158,42,217);
-background: linear-gradient(90deg, rgba(158,42,217,1) 0%, rgba(238,255,0,1) 100%);
+h1 {
+    margin-top: 50px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    margin-left: 350px;
+    border-radius: 4px;
+    background-color: #534fb8;
+    padding: 20px;
+    margin-right: 300px;
+    
+}
+
+.title {
+    margin-top: 50px;
+    border-radius: 4px;
+    background-color: #534fb8;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 30px;
+    margin-right: 500px;
+    margin-bottom: 30px;
+}
+
+
+p{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h2{
+    margin-left: 320px;
+    margin-right: 300px;
+}
+
+label{
+    margin-left: 320px;
+}
+
+article{
+    background-color: #534fb8;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 4px;
+}
+
+.inserir {
+    margin-left: 300px;
 }
